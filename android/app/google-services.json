@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470613904293",
+    "project_id": "agentbackend04",
+    "storage_bucket": "agentbackend04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470613904293:android:8a6dd5cfd01785a4b1f64c",
+        "android_client_info": {
+          "package_name": "com.example.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470613904293-nid0q8mkdj4sls0260553ht3aoo0v96l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDji1NbTE-_ER3GUSR4bIlICfjZVF07GnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470613904293-nid0q8mkdj4sls0260553ht3aoo0v96l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
